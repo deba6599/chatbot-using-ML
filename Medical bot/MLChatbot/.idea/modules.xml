@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MLChatbot.iml" filepath="$PROJECT_DIR$/.idea/MLChatbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Garage.iml" filepath="$PROJECT_DIR$/.idea/Garage.iml" />
     </modules>
   </component>
 </project>
